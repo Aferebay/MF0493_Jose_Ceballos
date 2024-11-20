@@ -8,7 +8,7 @@ const {join} = require('path')
 const morgan = require('morgan')
 app.use(morgan('dev'))
 
-const port = process.env.PORT || 3000
+const port = process.env.PORT || 8000
 
 app.use(express.static('public'))
 // const router = require('./routes/index.js')

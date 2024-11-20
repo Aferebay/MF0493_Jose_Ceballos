@@ -1,0 +1,12 @@
+version: '0.0.1'
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: practica_final_ceballos:latest
+    container_name: practica_final_ceballos_container
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
