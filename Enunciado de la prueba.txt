@@ -1,0 +1,12 @@
+El objetivo de la prueba es:
+
+1) Subir correctamente el proyecto a GITHUB, incluyendo los archivos Dockerfile y .dockerignore. Adjunta el enlace.
+
+2) Crear una imagen del proyecto con Docker
+
+3) Subir correctamente el proyecto a DockerHub. Adjunta el enlace.
+
+4) Desplegar el proyecto en render.com. Adjunta el enlace.
+
+No te olvides de incluir las capturas de pantalla de cada paso. 
+Han de ser suficientes para poder reproducir todo lo necesario hasta llegar al resultado final.
